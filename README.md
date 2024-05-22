@@ -3,6 +3,7 @@
 This is a Flask application that allows users to view and interact with data from the runelite DMM CSV file. The application provides functionality to search for specific items and visualize their data over time.
 
 ## Demo
+_Note: the demo will only display the price for Dragon Bones. To see all the data, you will need to run the application yourself._
 https://calum.github.io/dmm-data-viewer/ 
 
 ## Features
