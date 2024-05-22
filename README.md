@@ -2,6 +2,9 @@
 
 This is a Flask application that allows users to view and interact with data from the runelite DMM CSV file. The application provides functionality to search for specific items and visualize their data over time.
 
+## Demo
+https://calum.github.io/dmm-data-viewer/ 
+
 ## Features
 
 - **Home Page:** Allows for filtering and sorting of data.
